@@ -2,8 +2,8 @@ class calculator:
     def multiply(x,y):
         return x*y
     def divide(x,y):
-        return
+        return x/y
     def add(x,y):
-        return
+        return x+y
     def subtract(x,y):
-        return
+        return x-y
